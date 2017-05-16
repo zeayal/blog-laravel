@@ -1,0 +1,23 @@
+{
+  "name": "ocliuziyang",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ocliuziyang <ocliuziyang@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ocliuziyang/ocliuziyang",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "clean-blog": "^1.0.1",
+    "gentelella": "^1.4.0",
+    "font-awesome": "^4.7.0"
+  }
+}
