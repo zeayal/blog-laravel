@@ -14,6 +14,6 @@ return [
         'title' => "Zeayal's blog"
     ],
     'admin' => [
-        'title' => '后台'
+        'title' => '博客后台'
     ]
 ];

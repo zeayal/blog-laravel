@@ -15,6 +15,7 @@ class CreateTagsTable extends Migration
     {
         Schema::create('tags', function (Blueprint $table) {
             $table->increments('id');
+            $table->integer('pid')->default(0)->comment('父级分类 id,默认为顶级');
             $table->string('name')->comment('分类名称');
             $table->string('description')->nullable()->comment('分类说明');
             $table->string('thumbnail')->nullable();

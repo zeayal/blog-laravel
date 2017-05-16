@@ -1,8 +1,9 @@
 {
-  "/mix.js": "/mix.146ad5807de330e68064.js",
-  "/css/blog.custom.css": "/css/blog.custom.8bcca3fceba1e02edfbecd9d7640f8ee.css",
-  "/css/blog-auth.css": "/css/blog-auth.3421bb48df4dedeb30ea51e395d9794f.css",
-  "/assets/app/css/app.css": "/assets/app/css/app.4db97d9544b939909f251ca27dbe8cd3.css",
-  "/assets/admin/css/admin.css": "/assets/admin/css/admin.aa0868c0bf7da54e9ccbf3e1a0037b20.css",
-  "/assets/admin/js/admin.js": "/assets/admin/js/admin.c8658dd73f67648d2c9eb487a91ad32f.js"
+  "/mix.js": "/mix.js",
+  "/css/blog.custom.css": "/css/blog.custom.css",
+  "/css/blog-auth.css": "/css/blog-auth.css",
+  "/css/admin.custom.css": "/css/admin.custom.css",
+  "/assets/app/css/app.css": "/assets/app/css/app.css",
+  "/assets/admin/css/admin.css": "/assets/admin/css/admin.css",
+  "/assets/admin/js/admin.js": "/assets/admin/js/admin.js"
 }
